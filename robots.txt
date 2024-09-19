@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eushipto.github.io/sitemap.html.gz
+Sitemap: https://eushipto.github.io/app/sitemap.html.gz
+Sitemap: https://eushipto.github.io/assets/sitemap.html.gz
+Sitemap: https://eushipto.github.io/css/sitemap.html.gz
+Sitemap: https://eushipto.github.io/data/sitemap.html.gz
+Sitemap: https://eushipto.github.io/includes/sitemap.html.gz
+Sitemap: https://eushipto.github.io/item/sitemap.html.gz
+Sitemap: https://eushipto.github.io/src/sitemap.html.gz
